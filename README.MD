@@ -1,5 +1,5 @@
 # APIFirebase
-This project was made for a Distributed Systems assignment in my Cybersecurity degree. It is a NodeJS API that utilizes Firebase in a localhost test environment with Postman. The tutorial for it is present at:
+This project was made for a Distributed Systems assignment in my Cybersecurity degree. It is a NodeJS API that utilizes Firebase in a localhost test environment with Postman. The tutorial for it is present at: https://andregodinho1.medium.com/criar-uma-api-que-utiliza-o-google-firebase-em-nodejs-2ffdb9dc8a89
 
 
 //Initialize in the folder functions
