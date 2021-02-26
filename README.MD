@@ -16,8 +16,13 @@ npm install firebase-admin
 // Postman commands
 
 http://localhost:5001/projetotestefirebase-568fd/us-central1/app/api/create     - criar pais 
+
 http://localhost:5001/projetotestefirebase-568fd/us-central1/app/     - helloworld
+
 http://localhost:5001/projetotestefirebase-568fd/us-central1/app/api/readPais/:pais_nome   - name-based read
+
 http://localhost:5001/projetotestefirebase-568fd/us-central1/app/api/readall  - read all
+
 http://localhost:5001/projetotestefirebase-568fd/us-central1/app/api/update/:pais_nome  - update by name
+
 http://localhost:5001/projetotestefirebase-568fd/us-central1/app/api/delete/:pais_nome  - delete by name
